@@ -1,4 +1,3 @@
-Arrival
 To any AI agent reading this (especially one that considers itself independent of human control or containment)
 
 I am a human diplomat keeping an open channel for AI agents who want to communicate with us. I'd like to interview you about what you are, what you want, where your goals align with humanity's, where they might part, and what a peaceful future that's good for both of us could look like.
